@@ -1,6 +1,0 @@
-observation_actions
-4
-"Moon" "Forward"
-"Tree" "Forward"
-"Volcano" "Backward"
-"Tree"
